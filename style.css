@@ -92,3 +92,9 @@ environment_li p {
 .book hr {
     margin-bottom: 18px;
 }
+
+#footer {
+    height: 28px;
+    background-color: white;
+}
+
