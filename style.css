@@ -32,7 +32,8 @@ body {
     width: 100%;
 }
 
-.travel_mainDiv h5, .travel_mainDiv p {
+.travel_mainDiv h5,
+.travel_mainDiv p {
     margin-left: 20px;
 }
 
@@ -60,4 +61,34 @@ body {
 
 html {
     scroll-behavior: smooth;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+    height: 250px;
+}
+
+environment_li p {
+    margin-top: 10px;
+}
+
+.header_entrepreneur {
+    1ine-height: 2;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 18px;
 }
